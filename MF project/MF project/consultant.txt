@@ -1,0 +1,3 @@
+rachel 300
+wendy 500
+ashar 300
